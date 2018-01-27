@@ -1,0 +1,9 @@
+[submodule "_twin_primes"]
+	path = _twin_primes
+	url = https://github.com/cetinerhalil/_twin_primes
+[submodule "_pal_primes"]
+	path = _pal_primes
+	url = https://github.com/cetinerhalil/_pal_primes
+[submodule "_pi_date"]
+	path = _pi_date
+	url = https://github.com/cetinerhalil/_pi_date
